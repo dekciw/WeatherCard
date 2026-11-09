@@ -5,6 +5,10 @@
 </p>
 
 <p align="center">
+  Мой первый учебный проект на JavaScript: на нём я разбирался с DOM, формами, массивами объектов и ES-модулями.
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" alt="HTML5">
   <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" alt="CSS3">
   <img src="https://img.shields.io/badge/JavaScript-ES_Modules-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript ES Modules">
@@ -22,7 +26,7 @@
 
 <table align="center">
   <tr>
-    <td width="50%" valign="top">
+    <td width="50%" align="center" valign="middle">
       <img src="assets/card-main.png" width="300" alt="Виджет погоды: солнечно в Уфе, 10 °C">
     </td>
     <td width="50%" valign="top">
@@ -124,7 +128,7 @@ npx serve .            # или: python -m http.server 8000
 
 ## Цели проекта
 
-Проект сделан как тренировочный, чтобы попрактиковаться в:
+Это мой первый учебный проект, с которого я начал изучать JavaScript. На нём я практиковался в:
 
 - работе с DOM: поиск элементов и обновление содержимого;
 - обработке формы поиска;
