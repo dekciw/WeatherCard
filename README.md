@@ -1,4 +1,4 @@
-<h1 align="center">Offline Weather Widget</h1>
+<h1 align="center">WeatherCard</h1>
 
 <p align="center">
   <b>Виджет погоды для 100 городов России на HTML, CSS и JavaScript: работает без интернета и без платных API.</b>
