@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/logo.png" width="110" alt="WeatherCard logo">
+</p>
+
 <h1 align="center">WeatherCard</h1>
 
 <p align="center">
@@ -123,7 +127,7 @@ npx serve .            # или: python -m http.server 8000
 ├── russianWeatherData.js    # массив cities с данными о погоде
 ├── img/                     # иконки погоды и интерфейса (SVG)
 ├── fonts/                   # шрифт Inter (локально, работает без интернета)
-└── assets/                  # скриншоты для README
+└── assets/                  # логотип и скриншоты для README
 ```
 
 ## Цели проекта
