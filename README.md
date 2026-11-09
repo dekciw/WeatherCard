@@ -22,7 +22,7 @@
 
 <p align="center">
   <a href="https://dekciw.github.io/WeatherCard/">
-    <img src="https://img.shields.io/badge/Живое_демо-1E88E5?style=for-the-badge" alt="Живое демо">
+    <img src="https://img.shields.io/badge/Открыть_в_браузере-1E88E5?style=for-the-badge" alt="Открыть в браузере">
   </a>
 </p>
 
@@ -48,7 +48,7 @@
         - <b>Работает офлайн</b>: данные о погоде лежат в самом проекте
       </p>
       <h3>Как попробовать</h3>
-      <p>Открой <a href="https://dekciw.github.io/WeatherCard/">живое демо</a> и введи, например, «Москва», «Сочи» или «Уфа».</p>
+      <p>Открой <a href="https://dekciw.github.io/WeatherCard/">проект в браузере</a> и введи, например, «Москва», «Сочи» или «Уфа».</p>
     </td>
   </tr>
 </table>
