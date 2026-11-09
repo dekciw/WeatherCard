@@ -13,11 +13,11 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" alt="CSS3">
   <img src="https://img.shields.io/badge/JavaScript-ES_Modules-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript ES Modules">
   <img src="https://img.shields.io/badge/API-не_нужен-555555" alt="Без API">
-  <a href="https://dekciw.github.io/offline-weather-widget/"><img src="https://img.shields.io/badge/GitHub_Pages-online-222222?logo=github&logoColor=white" alt="GitHub Pages"></a>
+  <a href="https://dekciw.github.io/WeatherCard/"><img src="https://img.shields.io/badge/GitHub_Pages-online-222222?logo=github&logoColor=white" alt="GitHub Pages"></a>
 </p>
 
 <p align="center">
-  <a href="https://dekciw.github.io/offline-weather-widget/">
+  <a href="https://dekciw.github.io/WeatherCard/">
     <img src="https://img.shields.io/badge/Живое_демо-1E88E5?style=for-the-badge" alt="Живое демо">
   </a>
 </p>
@@ -44,7 +44,7 @@
         <li><b>Работает офлайн</b>: данные о погоде лежат в самом проекте</li>
       </ul>
       <h3>Как попробовать</h3>
-      <p>Открой <a href="https://dekciw.github.io/offline-weather-widget/">живое демо</a> и введи, например, «Москва», «Сочи» или «Уфа».</p>
+      <p>Открой <a href="https://dekciw.github.io/WeatherCard/">живое демо</a> и введи, например, «Москва», «Сочи» или «Уфа».</p>
     </td>
   </tr>
 </table>
@@ -90,8 +90,8 @@
 Сборка и зависимости не нужны, но **открыть `index.html` двойным кликом не получится**: скрипты подключены как ES-модули, а браузер не загружает модули из локального файла. Запусти любой локальный сервер в папке проекта:
 
 ```bash
-git clone https://github.com/dekciw/offline-weather-widget.git
-cd offline-weather-widget
+git clone https://github.com/dekciw/WeatherCard.git
+cd WeatherCard
 npx serve .            # или: python -m http.server 8000
 ```
 
